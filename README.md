@@ -61,3 +61,7 @@ node examples/sendDynamicMail.js
 ## Contribution
 
 You can fork this repository and add new templates to open source community.
+
+## License
+
+This repository licensed under [MIT](https://opensource.org/license/mit/) license. Please read before use it.
