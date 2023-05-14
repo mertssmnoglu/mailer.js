@@ -1,6 +1,6 @@
 # Mailer.js
 
-Nodemailer implementations for your applications.
+Nodemailer Gmail implementations for your applications.
 
 ! Suitable for personal use
 
