@@ -5,7 +5,9 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node ."
+    "start": "node .",
+    "format:check": "prettier --check .",
+    "format": "prettier --write ."
   },
   "keywords": [
     "mailer"
