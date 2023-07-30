@@ -4,6 +4,6 @@
     "useTabs": false,
     "printWidth": 130,
     "trailingComma": "none",
-    "endOfLine": "crlf",
+    "endOfLine": "auto",
     "singleQuote": true
 }
