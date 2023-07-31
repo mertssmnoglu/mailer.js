@@ -1,5 +1,5 @@
 import { readFile } from 'fs'
-import transporter from '../index.js'
+import transporter from '../../index.js'
 
 async function sendStaticHtmlMail(mailFrom, mailTo, subject, htmlPath) {
     readFile(htmlPath, { encoding: 'utf-8' }, function (err, html) {

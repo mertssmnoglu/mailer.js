@@ -1,4 +1,4 @@
-import transporter from '../index.js'
+import transporter from '../../index.js'
 import Welcome from '../templates/Welcome.js'
 
 async function sendDynamicMail(mailFrom, mailTo, subject, content) {

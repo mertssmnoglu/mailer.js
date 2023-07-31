@@ -1,4 +1,4 @@
-import transporter from '../index.js'
+import transporter from '../../index.js'
 
 async function sendTextMail(mailFrom, mailTo, subject, content) {
     const mailOptions = {

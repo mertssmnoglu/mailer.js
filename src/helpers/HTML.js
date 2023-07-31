@@ -1,5 +1,5 @@
 import { writeFile } from 'fs'
-import transporter from '../index.js'
+import transporter from '../../index.js'
 
 class HTML {
     constructor(htmlLang = 'en', head, body) {
