@@ -16,7 +16,7 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.0.3",
-    "nodemailer": "^6.9.2"
+    "nodemailer": "^6.9.9"
   },
   "devDependencies": {
     "prettier": "2.8.8"
